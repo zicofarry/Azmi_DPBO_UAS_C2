@@ -2,7 +2,6 @@
 /*
  * Main View
  * Displays the Humanitarian Assistance Management Interface.
- * Follows the layout specified in the Exam PDF.
  */
 require_once 'presenter/AssistancePresenter.php';
 
